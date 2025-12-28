@@ -14,5 +14,6 @@ Hey, I'm Agu!
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Luau-2C2D72?logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff" />
 
 </p>
